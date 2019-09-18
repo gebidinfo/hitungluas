@@ -35,8 +35,7 @@ def HitungLuas():
         raw_input("")
         #Panggil fungsi HitungLuas()
         HitungLuas()
-        
-      import os
+       
       def clearScreen():
       	os.system('clear') #linux
       
