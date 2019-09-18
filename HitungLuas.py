@@ -36,8 +36,6 @@ def HitungLuas():
         #Panggil fungsi HitungLuas()
         HitungLuas()
        
-      def clearScreen():
-      	os.system('clear') #linux
       
       def persegi():
       	clearScreen()
